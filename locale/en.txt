@@ -1,0 +1,126 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_11EAFC83_1B2A_6AC0_41A2_C00562C11779.text = Balcony
+HotspotPanoramaOverlayTextImage_1195EC7F_1B2A_6A40_41B5_8B3F6C390373.text = Balcony
+HotspotPanoramaOverlayTextImage_11950C80_1B2A_6AC0_41A2_779D70BA0F30.text = Bedroom         4
+HotspotPanoramaOverlayTextImage_11EABC82_1B2A_6AC0_419C_C16104792B50.text = Bedroom1
+HotspotPanoramaOverlayTextImage_11EAAC82_1B2A_6AC0_41BB_18E3486AF3EF.text = Bedroom2
+HotspotPanoramaOverlayTextImage_11EADC83_1B2A_6AC0_41AA_44F6EA5CBB0E.text = Bedroom3
+HotspotPanoramaOverlayTextImage_11EA3C83_1B2A_6AC0_41A0_4E00A2EFD74F.text = Bedroom4
+HotspotPanoramaOverlayTextImage_11EBFC87_1B2A_6ACF_41A9_2FF27CE0CF77.text = Duplex Upper floor
+HotspotPanoramaOverlayTextImage_11EA4C85_1B2A_6AC0_41A5_B4FA5D086B24.text = First floor duplex
+HotspotPanoramaOverlayTextImage_11EA6C85_1B2A_6AC0_41AA_59C3254950FD.text = Ground floor 
+HotspotPanoramaOverlayTextImage_11EA0C84_1B2A_6AC0_418C_01EA5A4FF628.text = Reception
+HotspotPanoramaOverlayTextImage_11951C80_1B2A_6AC0_41A1_CD1AEE10FF3A.text = Stairs
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_14FD2F03_1B2B_E7C7_41B0_FD01A7D0D342.url = media/map_CC952F57_D32F_C05E_41DC_88F44486FDD6_en_0.jpg
+imlevel_14FD1F03_1B2B_E7C7_41A8_A5420E149C75.url = media/map_CC952F57_D32F_C05E_41DC_88F44486FDD6_en_1.jpg
+imlevel_14FAEF04_1B2B_E7C1_41AB_05C639FE4D5A.url = media/map_CC952F57_D32F_C05E_41DC_88F44486FDD6_en_2.jpg
+imlevel_14FACF04_1B2B_E7C1_418A_77F5F4AAFFB3.url = media/map_CC952F57_D32F_C05E_41DC_88F44486FDD6_en_3.jpg
+imlevel_14FC5EAC_1B2B_E6C1_41A1_6F7215796BA2.url = media/map_CF0CCCFF_D32F_C04E_41E1_4552BC9CFC52_en_0.jpg
+imlevel_14FC2EAD_1B2B_E6C3_4164_E49B8C4D95FC.url = media/map_CF0CCCFF_D32F_C04E_41E1_4552BC9CFC52_en_1.jpg
+imlevel_14FC0EAD_1B2B_E6C3_41B4_AD553B087D00.url = media/map_CF0CCCFF_D32F_C04E_41E1_4552BC9CFC52_en_2.jpg
+imlevel_14FFAE4D_1B2B_E642_41A2_E7F1CB8DE98C.url = media/map_CFE76AB3_D32F_C0D6_41DD_067759F4BACF_en_0.jpg
+imlevel_14FF8E4E_1B2B_E641_41B5_B6B9FF9D064B.url = media/map_CFE76AB3_D32F_C0D6_41DD_067759F4BACF_en_1.jpg
+imlevel_14FF9E4E_1B2B_E641_41A6_DE69430637A2.url = media/map_CFE76AB3_D32F_C0D6_41DD_067759F4BACF_en_2.jpg
+imlevel_14FF6E4E_1B2B_E641_41BA_2AEEA289B3E8.url = media/map_CFE76AB3_D32F_C0D6_41DD_067759F4BACF_en_3.jpg
+imlevel_164EF98B_1B2E_EAC0_41A7_D551BDF44358.url = media/panorama_D8207975_D394_A21A_41E5_C09B3E5BCE33_HS_pqb3gdsr_en.png
+imlevel_16412A3A_1B2E_E9C0_4198_617B688A7D08.url = media/panorama_D888C062_D394_E23E_41E5_DE8DF1F612B6_HS_79jhrd5l_en.png
+imlevel_164639F2_1B2E_EA40_41B3_D5E2E9B70E0D.url = media/panorama_D88CA5F4_D395_E204_4196_31E18D19A78A_HS_twj66do7_en.png
+imlevel_1647B9C3_1B2E_EA40_41AC_36750A265A6F.url = media/panorama_D88F5E3E_D395_5E06_41DC_A097DEEB3A89_HS_8b9grvkg_en.png
+imlevel_164679D7_1B2E_EA40_41B4_B511F7B9A355.url = media/panorama_D88F5E3E_D395_5E06_41DC_A097DEEB3A89_HS_o9ur9o0p_en.png
+imlevel_1510A8AA_1B2E_EAC0_41B5_EA45E2D4C193.url = media/panorama_DEC75655_D394_EE1A_41E8_0B5E014AB7FC_HS_g43ad5x3_en.png
+imlevel_164E4977_1B2E_EA40_41AA_E742DC985212.url = media/panorama_DEF56FA3_D394_BE3D_41B1_B266A8AEE143_HS_9tskkwwz_en.png
+imlevel_16935B64_1B2E_EE40_419A_DFA855BB875E.url = media/panorama_DF91136A_D394_A60F_41D6_C22A527CCB36_HS_zrhepe60_en.png
+imlevel_16948AD8_1B2E_EE40_41B2_4122CEA79C0A.url = media/panorama_DFC7FE48_D395_FE0B_41E8_4493E4650C1E_HS_38e2laai_en.png
+imlevel_1694CABF_1B2E_EEC0_412B_8C0EA3876D20.url = media/panorama_DFC7FE48_D395_FE0B_41E8_4493E4650C1E_HS_x4ylvu98_en.png
+imlevel_156D48BF_1B2E_EAC0_41B9_07560E9FA79B.url = media/panorama_DFD22925_D395_A205_41E0_09F36B447D53_HS_1jyllpam_en.png
+imlevel_157E88DE_1B2E_EA40_41A3_4514281DC91D.url = media/panorama_DFD22925_D395_A205_41E0_09F36B447D53_HS_y6lzd57d_en.png
+
+### Title
+panorama_DE75EE5B_D395_7E0D_41E4_EAE010FDFCB7.label = Balacony 2
+panorama_DEF56FA3_D394_BE3D_41B1_B266A8AEE143.label = Bedroom 1
+panorama_D8207975_D394_A21A_41E5_C09B3E5BCE33.label = Bedroom 2
+panorama_D88F5E3E_D395_5E06_41DC_A097DEEB3A89.label = Bedroom 3
+panorama_D88CA5F4_D395_E204_4196_31E18D19A78A.label = Bedroom 4
+panorama_D877AD93_D394_A21D_4192_084176397DEA.label = Duplex back balacony
+panorama_D895D2AA_D395_A60F_41E0_682DE80D7E4E.label = Duplex balacony
+panorama_DFAAF2E1_D394_A63D_41DC_9312C9329AC3.label = Duplex balacony ff
+panorama_DF07BBF7_D394_A605_41BD_527EE5A8CC8D.label = Duplex ff lobby
+panorama_D843E84E_D395_A207_41B8_98A015315588.label = Duplex reception
+panorama_DF9D6DB9_D395_A20D_41E5_2504E21D3C9D.label = Duplex reception 2
+panorama_DFBF6058_D394_E20B_41E8_6E2610B4993D.label = Duplex reception ff
+panorama_DF106B16_D395_6606_41E9_ED6AF0791316.label = Duplex reception3
+panorama_DFCCF25D_D395_660A_41E1_DDDEF5C42CE7.label = Duplex room 1
+panorama_DF91136A_D394_A60F_41D6_C22A527CCB36.label = Duplex stairs
+panorama_D888C062_D394_E23E_41E5_DE8DF1F612B6.label = First floor balacony
+panorama_DF57A7CE_D394_AE07_41E7_1654FF1574A4.label = First floor lobby
+panorama_D8311E3D_D394_FE05_41DE_074EE51AD1FD.label = First floor reception
+panorama_DEC75655_D394_EE1A_41E8_0B5E014AB7FC.label = First floor reception 2
+panorama_DFD22925_D395_A205_41E0_09F36B447D53.label = First floor reception 3
+panorama_D88865B9_D394_A20D_41D0_55B2E2164D1C.label = Ground floor lobby
+panorama_D8D48D94_D393_621B_41DF_4B268164F3AB.label = Ground floor reception
+panorama_DE4513E7_D393_6605_41E8_D7BC668B2EFD.label = Ground floor reception 2
+panorama_D882CCBC_D394_A20B_41E2_AE3135A41505.label = Ground floor reception 3
+panorama_DD82F6D5_D394_AE05_41E0_759D6D31C019.label = Ground floor secondary lobby
+panorama_D8327D80_D394_A2FB_41CE_D4F44891084A.label = Ground floor toilets
+panorama_D830EE71_D394_DE1A_41E2_A680938A4D8A.label = Main Stairs
+panorama_D8975183_D397_62FD_41BE_5CF785FDFE0E.label = Side building 3
+panorama_DE62F69D_D394_EE05_41D3_5D0D2654D878.label = Stairs entrance
+panorama_DFC7FE48_D395_FE0B_41E8_4493E4650C1E.label = Stairs first floor
+video_D6204595_E8CF_04AA_417F_7734FE074283.label = VIDEO
+map_CC952F57_D32F_C05E_41DC_88F44486FDD6.label = WhatsApp Image 2024-10-28 at 2.58.13 PM
+panorama_DF696CBB_D397_620D_41D3_51434065FAE8.label = entrance 2
+panorama_D8E97F2C_D394_DE0B_41BC_6766AC9F7723.label = main entrance
+panorama_D894B847_D397_6205_4198_BB2A8AFC0FD6.label = side building 2
+map_CF0CCCFF_D32F_C04E_41E1_4552BC9CFC52.label = المساقط الأفقيةn_1
+map_CFE76AB3_D32F_C0D6_41DD_067759F4BACF.label = المساقط الأفقيةn_2
+
+### Video
+videolevel_14FE4E2E_1B2B_E9C1_41A1_673823A23221.url = media/video_D6204595_E8CF_04AA_417F_7734FE074283_en.mp4
+videolevel_14FE4E2E_1B2B_E9C1_41A1_673823A23221.posterURL = media/video_D6204595_E8CF_04AA_417F_7734FE074283_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259.label = CONTACT
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = FLOORPLAN
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = House info
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = PANORAMA LIST
+Button_D8BF3B9D_E84F_0CDA_41CB_D678717E44B6.label = Video
+Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
+
+### Image
+Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_en.png
+Image_C67D5BA3_E87D_0CEE_41CC_0C00BF3DC76A.url = skin/Image_C67D5BA3_E87D_0CEE_41CC_0C00BF3DC76A_en.jpeg
+Image_C7698D72_E87F_046F_41C7_4489BFB35807.url = skin/Image_C7698D72_E87F_046F_41C7_4489BFB35807_en.jpeg
+Image_CB0C830E_DDEC_2A76_41DB_B134E11A21CD.url = skin/Image_CB0C830E_DDEC_2A76_41DB_B134E11A21CD_en.png
+
+### Label
+Label_CCDFEE70_DDEC_1AAA_41B8_83A3402C090D.text = عمارة / كابتن أحمد الجابري
+
+### Multiline Text
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7.4399999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.44vh;font-family:'Oswald';"><B>معلومات هامة</B></SPAN></SPAN></DIV></div>
+HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.300000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:8.3vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.010000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.01vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.86vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.72vh;font-family:'Oswald Regular';">Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.86vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.72vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.86vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.72vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.86vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.15vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:3.15vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.15vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.15vh;font-family:'Oswald';"><B><U>Mohammed el-Maghraby studio</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.15vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:3.15vh;font-family:'Oswald Regular';"><B>We are an architectural and virtual tour studio which aims to affect the whole engineering and realestate market with our finger print through faciliting the whole proccess with the latest technology. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.86vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vh;font-family:'Oswald';"><B>tel: </B></SPAN><SPAN STYLE="color:#ff361b;font-size:2vh;font-family:'Oswald';"><B>architect</B></SPAN><SPAN STYLE="font-size:2vh;font-family:'Oswald';"><B> Mohammed el maghraby  +201001537665 </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vh;font-family:'Oswald';"><B>tel: </B></SPAN><SPAN STYLE="color:#ff361b;font-size:2vh;font-family:'Oswald';"><B>Eng.</B></SPAN><SPAN STYLE="font-size:2vh;font-family:'Oswald';"><B> Bassem Samir                          +201101173300 </B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.58vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.58vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.58vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.58vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.58vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.58vh;font-family:'Oswald';"><B>PHOTOALBUM/</B></SPAN></SPAN></DIV></div>
+HTMLText_DA483576_E845_0457_41B2_DF91FE420FB8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:35px;font-family:'Californian FB';"><B>:العنوان</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B>م15 أول صف - البوابة الثالثة - حدائق الأهرام - الجيزة</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:35px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:35px;font-family:'Californian FB';"><B> :المساحة</B></SPAN><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B>مساحة الأرض = 1000 م</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B>مساحة المباني = 400 م</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:35px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:35px;font-family:'Californian FB';"><B>:العمارة مكونة من</B></SPAN><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B>فيلا مكونة من طابقين </B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;font-family:'Californian FB';"><B>عدد (2) شقة دوبلكس بالطابقين الثاني والثالث ( على المحارة ) + سطح</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
